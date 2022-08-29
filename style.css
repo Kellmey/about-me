@@ -44,7 +44,7 @@ p {
 .section-title {
 	font-size: 4rem;
 	font-weight: 500;
-	color: blue;
+	color: yellow;
 	margin-bottom: 60px;
 	text-transform: uppercase;
 	letter-spacing: 0.2rem;
@@ -52,7 +52,7 @@ p {
 }
 
 .section-title span {
-	color: yellow;
+	color:blue;
 }
 
 .cta {
@@ -474,7 +474,7 @@ p {
 #about .col-right h2 {
 	font-size: 1.8rem;
 	font-weight: 500;
-	color:blue;
+	color:yellow;
 	letter-spacing: 0.2rem;
 	margin-bottom: 10px;
 }
