@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url("pro\ 7.jpg");
+    background-image: url("images/pro\ 7.jpg");
 }
 
 html {
@@ -140,7 +140,7 @@ p {
 	font-weight: 500;
 	letter-spacing: 0.2rem;
 	text-decoration: none;
-	color: blue;
+	color: white;
 	text-transform: uppercase;
 	padding: 20px;
 	display: block;
@@ -232,7 +232,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(programmer\ 1.jpg);
+	background-image: url(images/programmer\ 1.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -369,7 +369,7 @@ p {
 	max-width: 1350px;
 	margin: 0 auto;
 	padding: 100px 0;
-	background-image: url(pro\ 3.jpg);
+	background-image: url(images/pro\ 3.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	
@@ -393,7 +393,7 @@ p {
 	flex-direction: column;
 	padding: 50px;
 	border-radius: 10px;
-	background-image: url(code1.jpg);
+	background-image: url(images/code1.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -437,7 +437,7 @@ p {
 	margin: 0 auto;
 	width: 95%;
 	padding: 100px 0;
-	background-image: url("pro 7.jpg");
+	background-image: url("images/pro 7.jpg");
 }
 #projects .projects-header h1 {
 	margin-bottom: 50px;
